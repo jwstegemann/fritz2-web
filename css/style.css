@@ -1,3 +1,17 @@
+/* fritz2 */
+
+.hero-example {
+  box-shadow: 0px 3px 38px -13px rgba(0, 0, 0, 0.8);
+}
+
+.hero-example .CodeMirror {
+  font-size: 1em !important;
+  height: 420px;
+}
+
+
+/* end fritz2 */
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
