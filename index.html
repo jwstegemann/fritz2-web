@@ -3,11 +3,11 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>unapp Template</title>
+	<title>fritz2</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
-	<meta name="author" content="" />
+	<meta name="description" content="small library to make web ui development in pure Kotlin easy" />
+	<meta name="keywords" content="kotlin ui web development coroutines" />
+	<meta name="author" content="jwstegemann" />
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -15,7 +15,7 @@
 	<meta property="og:url" content=""/>
 	<meta property="og:site_name" content=""/>
 	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
+	<meta name="twitter:title" content="fritz2" />
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
@@ -68,7 +68,7 @@
 								<li class="active"><a href="index_backup.html">Home</a></li>
 								<li><a href="https://docs.fritz2.dev">Documentation</a></li>
 								<li><a href="https://examples.fritz2.dev">Examples</a></li>
-								<li><a href="https://docs.fritz2.dev/dokka">API</a></li>
+								<li><a href="https://api.fritz2.dev/dokka/fritz2">API</a></li>
 								<li><a href="https://github.com/jwstegemann/fritz2">Github</a></li>
 							</ul>
 						</div>
@@ -164,26 +164,26 @@
 					</div>
 					<div class="col-md-7 animate-box">
 						<div class="desc">
-							<h2>Real template creation</h2>
+							<h2>Lightweight, reactive, easy to learn</h2>
 							<div class="features">
 								<span class="icon"><i class="icon-lightbulb"></i></span>
 								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+									<p>fritz2 heavily uses Kotlin standard features (especially flows) and has no external dependencies. It's core source is just about 1,5k lines of code so it is one of the most lightweight ui-libs available.</p>
 								</div>
 							</div>
 							<div class="features">
 								<span class="icon"><i class="icon-circle-compass"></i></span>
 								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+									<p>fritz2 offers precise data-binding for your ui-elements. When your data changes, those - and only those - DOM-elements, are updated, that are bound to parts of the model, that have changed - no virtual dom needed.</p>
 								</div>
 							</div>
 							<div class="features">
-								<span class="icon"><i class="icon-beaker"></i></span>
+								<span class="icon"><i class="icon-lab"></i></span>
 								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+									<p>fritz2 is built around just a few basic concepts (Stores, Handlers, Tags, etc.). You can easily learn how to use them from our documentation or the examples we provide. Enjoy! </p>
 								</div>
 							</div>
-							<p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p>
+							<!-- <p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p> -->
 						</div>
 					</div>
 				</div>
@@ -193,26 +193,26 @@
 					</div>
 					<div class="col-md-7 col-md-pull-5 animate-box">
 						<div class="desc">
-							<h2>Finish template creation</h2>
+							<h2>Flexible and effective</h2>
 							<div class="features">
 								<span class="icon"><i class="icon-lightbulb"></i></span>
 								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+									<p>fritz2 allows you to build small apps very fast with a few lines of code as well as enterprise scale applications with a focus on reusable components, clean code and structure. The functional reactive concept makes the resulting code easy to read und to maintain.</p>
 								</div>
 							</div>
 							<div class="features">
 								<span class="icon"><i class="icon-circle-compass"></i></span>
 								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+									<p>fritz2 includes everything you need to start your project: HTML-template-DSL, state management (even for complex nested models), validation, routing, remote, a set of often needed utilities as well as a ready-to-go project-template.</p>
 								</div>
 							</div>
 							<div class="features">
 								<span class="icon"><i class="icon-beaker"></i></span>
 								<div class="f-desc">
-									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+									<p>Utilizing Koltin's multiplatform-abilities, you have to write the code of your data classes just once and use it on your client and server (i.e. in a SpringBoot-Backend). This of course also true for your model-validation-code, that can become far more complex than your data model really fast.</p>
 								</div>
 							</div>
-							<p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p>
+							<!-- <p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p> -->
 						</div>
 					</div>
 				</div>
@@ -308,10 +308,11 @@
 						<p>fritz2 is a small lib to make web ui development in pure Kotlin easy.</p>
 						<p>
 							<ul class="colorlib-social-icons">
-								<li><a href="#"><i class="icon-twitter"></i></a></li>
+								<!-- <li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin"></i></a></li>
 								<li><a href="#"><i class="icon-dribbble"></i></a></li>
+								-->
 							</ul>
 						</p>
 					</div>
@@ -323,7 +324,7 @@
 								<li><a href="https://examples.fritz2.dev"><i class="icon-check"></i> hosted examples</a></li>
 								<li><a href="https://docs.fritz2.dev"><i class="icon-check"></i> documentation</a></li>
 								<li><a href="https://github.com/jwstegemann/fritz2-template"><i class="icon-check"></i> project template</a></li>
-								<li><a href="https://docs.fritz2.dev/dokka"><i class="icon-check"></i> API documentation</a></li>
+								<li><a href="https://api.fritz2.dev/dokka/fritz2"><i class="icon-check"></i> API documentation</a></li>
 							</ul>
 						</p>
 					</div>
@@ -358,12 +359,12 @@
 					</div>
 -->
 					<div class="col-md-3 colorlib-widget">
-						<h4>Contact Info</h4>
+						<h4>made by</h4>
 						<ul class="colorlib-footer-links">
-							<li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
-							<li><a href="tel://1234567920"><i class="icon-phone"></i> + 1235 2355 98</a></li>
-							<li><a href="mailto:info@yoursite.com"><i class="icon-envelope"></i> info@yoursite.com</a></li>
-							<li><a href="#"><i class="icon-location4"></i> yourwebsite.com</a></li>
+							<li>jwstegemann</li>
+							<li>jamowei</li>
+<!--							<li><a href="mailto:info@yoursite.com"><i class="icon-envelope"></i> info@yoursite.com</a></li>
+							<li><a href="#"><i class="icon-location4"></i> yourwebsite.com</a></li>-->
 						</ul>
 					</div>
 				</div>
