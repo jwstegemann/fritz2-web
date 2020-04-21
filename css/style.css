@@ -9,6 +9,10 @@
   height: 420px;
 }
 
+span.icon {
+  background: none !important;
+}
+
 
 /* end fritz2 */
 
