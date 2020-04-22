@@ -18,6 +18,12 @@ span.icon {
   background: none !important;
 }
 
+i.on-btn:before {
+  font-size: 1.4em;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
 
 /* end fritz2 */
 
