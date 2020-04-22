@@ -5,8 +5,8 @@
   font-size: 20px;
 }
 
-.hero-example, .mobile-img {
-  box-shadow: 0px 3px 38px -13px rgba(0, 0, 0, 0.8);
+.hero-example, .mobile-img.info-img {
+  box-shadow: 0px 3px 38px -13px rgba(0, 0, 0, 0.8); !important;
 }
 
 .hero-example .CodeMirror {
