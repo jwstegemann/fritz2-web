@@ -1,5 +1,10 @@
 /* fritz2 */
 
+.fritz2-logo > a {
+  color: white;
+  font-size: 20px;
+}
+
 .hero-example, .mobile-img {
   box-shadow: 0px 3px 38px -13px rgba(0, 0, 0, 0.8);
 }
