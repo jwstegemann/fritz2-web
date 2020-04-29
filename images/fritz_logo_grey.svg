@@ -5,13 +5,40 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="fritz_logo_grey.svg"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 532.01392 148.03801"
-   height="148.03801mm"
-   width="532.01392mm">
+   viewBox="0 0 329.95697 91.813721"
+   height="91.813721mm"
+   width="329.95697mm">
   <defs
      id="defs2" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="938"
+     inkscape:window-width="1680"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="245.33934"
+     inkscape:cx="1121.6672"
+     inkscape:zoom="0.43764453"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -26,15 +53,19 @@
   </metadata>
   <g
      transform="translate(214.36779,-68.30486)"
-     id="layer2" />
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2" />
   <g
      transform="translate(214.36779,-68.30486)"
-     id="layer1">
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
     <path
+       inkscape:connector-curvature="0"
        id="path30"
-       style="fill:#333333;stroke-width:0.999999"
-       d="M -524.3418,258.16016 A 286.229,279.7565 0 0 0 -810.20898,537.91797 286.229,279.7565 0 0 0 -523.97852,817.67383 286.229,279.7565 0 0 0 -237.75,537.91797 286.229,279.7565 0 0 0 -523.97852,258.16016 a 286.229,279.7565 0 0 0 -0.36328,0 z m 134.26563,69.65039 c 13.32667,0.069 24.08621,10.88403 24.01758,24.14062 l -0.4961,96.0625 c -0.0686,13.25658 -10.94088,23.95784 -24.26758,23.88867 -13.32669,-0.069 -24.08636,-10.88209 -24.01757,-24.13867 l -48.28516,-0.25 c -13.32673,-0.069 -24.19879,10.63405 -24.26758,23.89063 l -0.12109,23.51562 h 22.28515 a 24.04025,24.531656 0 0 1 1.6875,-0.0605 24.04025,24.531656 0 0 1 24.04102,24.53124 24.04025,24.531656 0 0 1 -24.04102,24.53126 24.04025,24.531656 0 0 1 -1.95312,-0.082 h -141.18359 v -0.0801 a 24.04025,24.465805 0 0 1 -1.14063,0.0293 24.04025,24.465805 0 0 1 -24.04102,-24.46679 24.04025,24.465805 0 0 1 24.04102,-24.46485 24.04025,24.465805 0 0 1 1.7168,0.0625 h 22.01367 l 0.25,-48.03125 c 0.27466,-53.05085 43.73696,-95.83859 97.06836,-95.5625 l 72.42773,0.375 c 0.0686,-13.25659 10.93894,-23.95964 24.26563,-23.89062 z m -194.38477,228.46484 96.57227,0.5 -0.37305,72.04688 c -0.27469,53.04993 -43.73696,95.8384 -97.06836,95.5625 l -48.28515,-0.25 c -0.0686,13.25658 -10.94093,23.95979 -24.26758,23.89062 -13.32673,-0.069 -24.08637,-10.88404 -24.01758,-24.14062 l 0.49805,-96.0625 c 0.0686,-13.25658 10.93893,-23.95979 24.26562,-23.89063 13.32665,0.069 24.08832,10.88401 24.01953,24.14063 l 24.14258,0.125 c 13.32669,0.069 24.19684,-10.63401 24.26563,-23.89063 z"
-       transform="scale(0.26458333)" />
+       style="fill:#333333;stroke-width:0.164095"
+       d="m -167.45825,68.304869 a 46.96891,45.906801 0 0 0 -46.90954,45.907021 46.96891,45.906801 0 0 0 46.96915,45.90669 46.96891,45.906801 0 0 0 46.96883,-45.90669 46.96891,45.906801 0 0 0 -46.96883,-45.907021 46.96891,45.906801 0 0 0 -0.0596,0 z m 22.03239,11.42932 c 2.18685,0.01132 3.95244,1.786021 3.94118,3.961369 l -0.0814,15.76343 c -0.0112,2.175342 -1.79535,3.931372 -3.9822,3.920022 -2.18685,-0.0113 -3.95247,-1.7857 -3.94118,-3.961046 l -7.92338,-0.04102 c -2.18686,-0.01132 -3.97091,1.744996 -3.9822,3.920346 l -0.0199,3.85881 h 3.65689 a 3.9448984,4.025536 0 0 1 0.27692,-0.01 3.9448984,4.025536 0 0 1 3.94502,4.02547 3.9448984,4.025536 0 0 1 -3.94502,4.02547 3.9448984,4.025536 0 0 1 -0.3205,-0.0135 h -23.1676 v -0.0131 a 3.9448984,4.0147301 0 0 1 -0.18718,0.005 3.9448984,4.0147301 0 0 1 -3.94502,-4.0149 3.9448984,4.0147301 0 0 1 3.94502,-4.01457 3.9448984,4.0147301 0 0 1 0.28172,0.0103 h 3.61235 l 0.041,-7.881716 c 0.0451,-8.70541 7.17704,-15.726688 15.92849,-15.681383 l 11.88507,0.06154 c 0.0113,-2.175348 1.79503,-3.931671 3.98188,-3.920345 z m -31.89768,37.490071 15.84708,0.082 -0.0612,11.82258 c -0.0451,8.70526 -7.17704,15.72665 -15.92849,15.68138 l -7.92338,-0.041 c -0.0113,2.17534 -1.79536,3.93169 -3.9822,3.92034 -2.18686,-0.0113 -3.95247,-1.78602 -3.94118,-3.96137 l 0.0817,-15.76343 c 0.0113,-2.17534 1.79503,-3.93169 3.98188,-3.92034 2.18684,0.0113 3.95279,1.78601 3.9415,3.96137 l 3.96169,0.0205 c 2.18685,0.0113 3.97059,-1.745 3.98188,-3.92035 z" />
     <text
        id="text62"
        y="150.32117"
@@ -44,16 +75,18 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Baskerville;-inkscape-font-specification:Baskerville;stroke-width:0.264583"
          y="150.32117"
          x="-76.8731"
-         id="tspan60" /></text>
+         id="tspan60"
+         sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:158.89799999999999613px;line-height:1.25;font-family:sans-serif;fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.97245;"
-       x="-38.9408"
-       y="198.56392"
+       style="font-style:normal;font-weight:normal;font-size:98.5491px;line-height:1.25;font-family:sans-serif;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.46373"
+       x="-105.56731"
+       y="149.09201"
        id="text28"><tspan
+         sodipodi:role="line"
          id="tspan26"
-         x="-38.9408"
-         y="198.56392"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;stroke-width:3.97245;fill:#333333;">fritz2</tspan></text>
+         x="-105.56731"
+         y="149.09201"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Nunito;-inkscape-font-specification:Nunito;fill:#333333;stroke-width:2.46373">fritz2</tspan></text>
   </g>
 </svg>
