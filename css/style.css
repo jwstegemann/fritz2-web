@@ -5,6 +5,11 @@
   font-size: 20px;
 }
 
+.logo-svg {
+  height: 1.1em;
+  margin-top: -0.2em;
+}
+
 .hero-example, .info-img {
   box-shadow: 0px 3px 38px -13px rgba(0, 0, 0, 0.8); !important;
 }
