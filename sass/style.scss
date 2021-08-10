@@ -7,8 +7,8 @@ $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
 $brand-primary: #4aca85 !default;
-$brand-secondary: #798eea !default;
-$brand-tertiary: #499bea !default;
+$brand-secondary: #02030c !default;
+$brand-tertiary: #031b2d !default;
 $brand-footer-color: #323232;
 
 $brand-white: #fff;
@@ -93,15 +93,15 @@ $form-group-margin-bottom: 30px !default;
 	
 }
 
-@mixin gradient-background(){
-	background: #499bea;
-background: -moz-linear-gradient(-45deg, #499bea 0%, #798eea 100%);
-background: -webkit-gradient(left top, right bottom, color-stop(0%, #499bea), color-stop(100%, #798eea));
-background: -webkit-linear-gradient(-45deg, #499bea 0%, #798eea 100%);
-background: -o-linear-gradient(-45deg, #499bea 0%, #798eea 100%);
-background: -ms-linear-gradient(-45deg, #499bea 0%, #798eea 100%);
-background: linear-gradient(135deg, #499bea 0%, #798eea 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#499bea', endColorstr='#798eea', GradientType=1 );
+@mixin gradient-background() {
+	background: $brand-tertiary;
+background: -moz-linear-gradient(-45deg, $brand-tertiary 0%, #798eea 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, $brand-tertiary), color-stop(100%, #798eea));
+background: -webkit-linear-gradient(-45deg, $brand-tertiary 0%, #798eea 100%);
+background: -o-linear-gradient(-45deg, $brand-tertiary 0%, #798eea 100%);
+background: -ms-linear-gradient(-45deg, $brand-tertiary 0%, #798eea 100%);
+background: linear-gradient(135deg, $brand-tertiary 0%, #798eea 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$brand-tertiary', endColorstr='#798eea', GradientType=1 );
 }
 
 // Import 
@@ -1782,4 +1782,26 @@ input[type="text"] {
 	.js & {
 		opacity: 0;
 	}
+}
+
+.fritz2-logo {
+	img {
+		height: 3rem;
+	}
+	a {
+		color: #ffffff;
+	}
+}
+
+.fritz2-title-logo {
+	height: 8rem;
+}
+
+span.icon {
+	background: none !important;
+}
+
+.code-snippet {
+	padding: 2rem;
+	background: #ffffff;
 }
