@@ -116,7 +116,8 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .colorlib-nav .top-menu {
-  padding: 30px 30px;
+  padding: 20px 0;
+  background-color: #323233;
 }
 @media screen and (max-width: 768px) {
   .colorlib-nav .top-menu {
@@ -332,14 +333,14 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   opacity: 0.95;
-  background: #031b2d;
-  background: -moz-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -webkit-gradient(left top, right bottom, color-stop(0%, #031b2d), color-stop(100%, #798eea));
-  background: -webkit-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -o-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -ms-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: linear-gradient(135deg, #031b2d 0%, #798eea 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="$brand-tertiary", endColorstr="#798eea", GradientType=1 );
+  background: #564ca3;
+  background: -moz-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, #564ca3), color-stop(100%, #323233));
+  background: -webkit-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -o-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -ms-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: linear-gradient(135deg, #564ca3 0%, #323233 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="$brand-tertiary", endColorstr="#323233", GradientType=1 );
   z-index: 1;
 }
 .video-hero .display-t {
@@ -580,7 +581,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .colorlib-work-featured .mobile-wrap .desc .features .icon i {
   font-size: 30px;
-  color: #031b2d;
+  color: #564ca3;
 }
 .colorlib-work-featured .mobile-wrap .desc .features .f-desc {
   padding-left: 50px;
@@ -855,14 +856,14 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: #031b2d;
-  background: -moz-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -webkit-gradient(left top, right bottom, color-stop(0%, #031b2d), color-stop(100%, #798eea));
-  background: -webkit-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -o-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -ms-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: linear-gradient(135deg, #031b2d 0%, #798eea 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="$brand-tertiary", endColorstr="#798eea", GradientType=1 );
+  background: #564ca3;
+  background: -moz-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, #564ca3), color-stop(100%, #323233));
+  background: -webkit-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -o-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -ms-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: linear-gradient(135deg, #564ca3 0%, #323233 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="$brand-tertiary", endColorstr="#323233", GradientType=1 );
   opacity: 0.96;
 }
 .colorlib-counters .icon {
@@ -988,14 +989,14 @@ article p.author-wrap .author {
   top: 0;
   left: 0;
   right: 0;
-  background: #031b2d;
-  background: -moz-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -webkit-gradient(left top, right bottom, color-stop(0%, #031b2d), color-stop(100%, #798eea));
-  background: -webkit-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -o-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: -ms-linear-gradient(-45deg, #031b2d 0%, #798eea 100%);
-  background: linear-gradient(135deg, #031b2d 0%, #798eea 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="$brand-tertiary", endColorstr="#798eea", GradientType=1 );
+  background: #564ca3;
+  background: -moz-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, #564ca3), color-stop(100%, #323233));
+  background: -webkit-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -o-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: -ms-linear-gradient(-45deg, #564ca3 0%, #323233 100%);
+  background: linear-gradient(135deg, #564ca3 0%, #323233 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="$brand-tertiary", endColorstr="#323233", GradientType=1 );
   opacity: 0.96;
 }
 .colorlib-subscribe .colorlib-heading {
