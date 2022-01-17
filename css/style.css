@@ -1,4 +1,31 @@
-@charset "UTF-8";
+/* fritz2 */
+
+.fritz2-logo > a {
+  color: white;
+  font-size: 20px;
+}
+
+.logo-svg {
+  height: 1.1em;
+  margin-top: -0.2em;
+}
+
+span.icon {
+  background: none !important;
+}
+
+i.on-btn:before {
+  font-size: 1.4em;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+.version {
+  font-size: 0.6em;
+  margin-left: 0.8em;
+}
+/* end fritz2 */
+
 @font-face {
   font-family: "icomoon";
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
